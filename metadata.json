@@ -1,0 +1,6 @@
+{
+  "name": "Parcel Pickup Hub System",
+  "description": "Smart Parcel Locker Management System with automated dimension-based locker allocation, secure OTP verification, role-based dashboards, and parcel expiry lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
